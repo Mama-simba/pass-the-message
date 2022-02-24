@@ -29,14 +29,14 @@ h2 {
   padding: 1rem 0 1.5rem 0;
 }
 
-input {
+.inputmessage {
   width: 250px;
   border: none;
   border-radius: 4px;
   padding: 7px;
 }
 
-button {
+.button {
   display: block;
   margin: 1rem auto;
   padding: 0.5rem 1rem;
@@ -120,10 +120,17 @@ h3 {
 
 
 
-h1 {
+#message {
   font-size:25px; 
   text-align: center;
   padding: 2rem 0;
+}
+
+#errormessage {
+  font-size:25px; 
+  text-align: center;
+  padding: 2rem 0;
+  color: #B33030;
 }
 
 
