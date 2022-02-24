@@ -20,7 +20,7 @@ body {
 
 main {
     width: 60%;
-    margin: 4rem auto 0rem auto;
+    margin: 2rem auto 0rem auto;
     text-align: center;
     padding: 2rem 0 1rem 0;
 }
@@ -64,7 +64,7 @@ h3 {
 
 h3 {
   text-align: center;
-  padding: 1rem 0 0.5rem 0;
+  padding: 1rem 0 0.3rem 0;
 }
 
 
@@ -124,4 +124,29 @@ h1 {
   font-size:25px; 
   text-align: center;
   padding: 2rem 0;
+}
+
+
+
+
+/* FOOTER */
+
+footer {
+    color: #ffa;
+    text-align: center;
+    font-size: 0.8rem; 
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+    padding: 3rem 0 1rem 0;
+}
+
+
+footer a {
+    color: #ffa;
+    text-decoration: none;
+    padding-right: 4px;
+}
+
+footer a:hover {
+    color: #130d6b; 
 }
