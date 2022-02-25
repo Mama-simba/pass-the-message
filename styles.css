@@ -50,7 +50,7 @@ h2 {
 	text-shadow:0px 1px 0px #ffffaa;
 }
 
-button:hover{
+.button:hover{
   background:linear-gradient(to bottom, #ffffaa 5%, #f5f531 100%);
 	background-color:#ffffaa;
   cursor:pointer;
